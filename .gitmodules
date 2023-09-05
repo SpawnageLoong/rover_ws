@@ -1,0 +1,6 @@
+[submodule "src/motor_serialise"]
+	path = src/motor_serialise
+	url = https://github.com/SpawnageLoong/motor_serialise.git
+[submodule "src/sensor_deserialise"]
+	path = src/sensor_deserialise
+	url = https://github.com/SpawnageLoong/sensor_deserialise.git
