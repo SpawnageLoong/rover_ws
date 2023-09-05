@@ -4,3 +4,12 @@
 [submodule "src/sensor_deserialise"]
 	path = src/sensor_deserialise
 	url = https://github.com/SpawnageLoong/sensor_deserialise.git
+[submodule "src/rover_base"]
+	path = src/rover_base
+	url = https://github.com/SpawnageLoong/rover_base.git
+[submodule "src/rover_c2"]
+	path = src/rover_c2
+	url = https://github.com/SpawnageLoong/rover_c2.git
+[submodule "src/rover_teleop"]
+	path = src/rover_teleop
+	url = https://github.com/SpawnageLoong/rover_teleop.git
