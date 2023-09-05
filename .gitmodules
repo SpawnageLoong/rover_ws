@@ -13,3 +13,6 @@
 [submodule "src/rover_deserialise"]
 	path = src/rover_deserialise
 	url = https://github.com/SpawnageLoong/rover_deserialise.git
+[submodule "src/rosbridge_suite"]
+	path = src/rosbridge_suite
+	url = https://github.com/RobotWebTools/rosbridge_suite.git
