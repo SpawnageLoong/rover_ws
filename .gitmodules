@@ -19,3 +19,6 @@
 [submodule "rover-webui"]
 	path = rover-webui
 	url = https://github.com/SpawnageLoong/rover-webui.git
+[submodule "src/rover_interfaces"]
+	path = src/rover_interfaces
+	url = https://github.com/SpawnageLoong/rover_interfaces.git
