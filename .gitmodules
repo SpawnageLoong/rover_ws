@@ -10,3 +10,7 @@
 	path = src/rover_serialise
 	url = https://github.com/SpawnageLoong/rover_serialise.git
 	branch = master
+[submodule "rover-webui"]
+	path = rover-webui
+	url = https://github.com/SpawnageLoong/rover-webui.git
+	branch = master
