@@ -14,3 +14,7 @@
 	path = rover-webui
 	url = https://github.com/SpawnageLoong/rover-webui.git
 	branch = master
+[submodule "src/rover_teleop"]
+	path = src/rover_teleop
+	url = https://github.com/SpawnageLoong/rover_teleop.git
+	branch = master
