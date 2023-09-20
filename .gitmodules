@@ -1,0 +1,4 @@
+[submodule "src/rover_base"]
+	path = src/rover_base
+	url = https://github.com/SpawnageLoong/rover_base.git
+	branch = master
