@@ -6,3 +6,7 @@
 	path = src/rover_interfaces
 	url = https://github.com/SpawnageLoong/rover_interfaces.git
 	branch = master
+[submodule "src/rover_serialise"]
+	path = src/rover_serialise
+	url = https://github.com/SpawnageLoong/rover_serialise.git
+	branch = master
