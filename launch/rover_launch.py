@@ -16,9 +16,18 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
             package='rover_base',
-            namespace='rover',
             executable='rover_base',
             name='rover_base'
+        ),
+        Node(
+            package='rover_serialise',
+            executable='rover_serialise',
+            name='rover_serialise'
+        ),
+        Node(
+            package='rover_deserialise',
+            executable='rover_deserialise',
+            name='rover_deserialise'
         ),
         Node(
             package='rosbridge_server',
