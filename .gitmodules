@@ -26,3 +26,6 @@
 	path = src/rover_c2
 	url = https://github.com/SpawnageLoong/rover_c2.git
 	branch = master
+[submodule "src/rover_camera_controls"]
+	path = src/rover_camera_controls
+	url = https://github.com/SpawnageLoong/rover_camera_controls.git
