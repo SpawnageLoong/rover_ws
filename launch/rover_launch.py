@@ -20,16 +20,6 @@ def generate_launch_description():
             name='rover_base'
         ),
         Node(
-            package='rover_serialise',
-            executable='rover_serialise',
-            name='rover_serialise'
-        ),
-        Node(
-            package='rover_deserialise',
-            executable='rover_deserialise',
-            name='rover_deserialise'
-        ),
-        Node(
             package='rosbridge_server',
             executable='rosbridge_websocket',
             name='rosbridge_websocket'
