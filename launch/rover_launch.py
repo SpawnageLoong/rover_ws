@@ -24,6 +24,11 @@ def generate_launch_description():
             executable='rosbridge_websocket',
             name='rosbridge_websocket'
         ),
+        Node(
+            package='rover_serialise',
+            executable='rover_serialise',
+            name='rover_serialise'
+        ),
         start_npm,
         start_motion
     ])
