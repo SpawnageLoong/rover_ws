@@ -29,6 +29,11 @@ def generate_launch_description():
             executable='rover_serialise',
             name='rover_serialise'
         ),
+	Node(
+	    package='rover_deserialise',
+	    executable='rover_deserialise',
+	    name='rover_deserialise'
+	),
         start_npm,
         start_motion
     ])
