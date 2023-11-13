@@ -22,3 +22,9 @@ For developers, check out the following resources:
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   quickstart
+   user_guide
+   developer_guide
+   documentation_guide
+   lorem_ipsum
