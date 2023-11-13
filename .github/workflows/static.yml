@@ -38,7 +38,7 @@ jobs:
           pip install sphinx sphinx_rtd_theme myst_parser furo
       - name: Sphinx Build
         run: |
-          cd docs && make html
+          cd docs && make clean html
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
